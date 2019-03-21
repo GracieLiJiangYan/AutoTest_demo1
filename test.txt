@@ -3,3 +3,4 @@ hello, my first git file for testing
 <<<<<<< HEAD
 这是master分支上的内容，这是branch上的内容
 >>>>>>> mergedemo
+version1
